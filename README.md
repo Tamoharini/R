@@ -1,1 +1,1 @@
-New document
+console.log("Hello world")
